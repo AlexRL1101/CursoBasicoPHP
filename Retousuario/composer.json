@@ -1,0 +1,12 @@
+{
+  "autoload":{
+    "psr-4": {
+        "App\\": "app/"
+      }
+  },
+  "require":{
+    "illuminate/database": "^7.4",
+    "twig/twig": "^3.0",
+    "zendframework/zend-diactoros": "^2.2"
+  }
+}

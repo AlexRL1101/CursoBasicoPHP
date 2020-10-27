@@ -1,0 +1,31 @@
+Pasos Intruduccion a PHP:
+
+-Interfaces
+-Namespace
+-PSR y PHPFIG
+-Composer
+-ORM
+-Formulario
+-Eloquent
+-Listar/Insertar datos con Eloquent
+-Front Controller
+-PSR 7
+-Router (Aura/Router)
+-MVC(Creando Controller)
+-MVC(Restructurando Vistas y Controladores)
+-MVC(Controller de la entidad Job)
+-Template engines
+-Twig
+-Templates con Twig
+-Extendiendo Templates con Twig
+-Validaciones
+-Ejemplos de subida de archivos
+-Tips de seguridad para subir archivos en PHP
+-Reto(Creacion de usuarios)
+-Autenticando usuarios
+-Formulario de Login
+-Manejo de sesiones
+-Variables de entorno
+-Deploy en Heroku
+-Instalacion de pgAdmin
+-Creando la base de datos en Heroku
